@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@300&display=swap');
+.output{
+    width: 80%;
+   margin-top: 3%;
+   display: flex;
+   flex-wrap: wrap;
+   margin-left: 20%;
+}
+.outputcard{
+    width: 30%;
+    margin-right: 3%;
+    margin-top: 2%;
+}
+h5{
+    font-size: 12px;
+    color: rgb(56, 56, 56);
+    font-family: 'Karla', sans-serif;
+}
+.video{
+    width: 100%;
+    height: 250px;
+}

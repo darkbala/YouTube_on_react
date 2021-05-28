@@ -1,0 +1,20 @@
+.youtubelogo{
+    width: 150px;
+    height: 40px;
+    margin-left: 40%;
+    /* margin-top: -3%; */
+}
+
+.voiceicon{
+    width: 30px ;
+    height: 30px;
+    margin-top: -80%;
+    margin-left: 100%;
+}
+.MuiAppBar-colorPrimary{
+    background-color: inherit !important;
+}
+.makeStyles-search-4{
+   margin-top: 1.5% !important;
+   height: 48px;
+}
